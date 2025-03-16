@@ -29,9 +29,4 @@ I actively volunteer with the **Italian Red Cross** in humanitarian aid and emer
 ## 📫 Connect with Me
 
 - [GitHub: ImFound](https://github.com/ImFound)
-- [LinkedIn: Alessio Cairoli](#)  <!-- Replace with your actual LinkedIn URL if available -->
-
-<!-- Optional: Include your GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImFound&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+- [LinkedIn: Alessio Cairoli](https://www.linkedin.com/in/alessio-cairoli-b713971b4/)
