@@ -19,6 +19,7 @@ I'm a **Network Engineer & Developer** passionate about designing and maintainin
 
 - **LakeNetworks**
 - **Navigabene**
+- **InvisionTech Group S.r.l.**
 
 I’m involved in building innovative solutions and integrating robust systems with these dynamic teams.
 
